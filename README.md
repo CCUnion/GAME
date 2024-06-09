@@ -21,14 +21,7 @@
 
 <h2>遊戲示例</h2>
 
-<video width="600" height="600" controls>
-  <source src="Preview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-</body>
-</html>
-
+https://github.com/CCUnion/GAME/assets/145345763/c7d8419a-5c53-4bdc-930e-9f9b4405d6cc
 
 <h3 align="left">故事劇情:</h3>
 <p align="left">

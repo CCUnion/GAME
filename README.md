@@ -55,7 +55,6 @@
     -The Social Contract. Jean Jacques Rousseau (1762)
 </p>
 
-
 <h3 align="left">遊戲類型:</h3>
 <p align="left">
     <strong>小遊戲</strong><br>
@@ -87,6 +86,77 @@
     三種基本資料型別 (例如 int 提示數量、float 倒數、char 字母)。<br>
     動態：人物移動。<br>
     隨機性主題方面的原創性 (中英) 和創意性 (故事劇情)。
+</p>
+
+<h3 align="left">遊戲中的操作和玩法介紹:</h3>
+<p align="left">
+    <strong>操作:</strong><br>
+    1. 關閉螢幕視窗：滑鼠點右上角的X。<br>
+    2. 打開背包：按E開啟，再按E關閉。<br>
+    3. 進入電腦的Loading動畫：可以按ESC跳過。<br>
+</p>
+<p align="left">
+    <strong>電腦桌面:</strong><br>
+    1. 關閉：按ESC回到地圖。<br>
+    2. 互動：滑鼠點擊圖示，再點一下關閉圖片。<br>
+</p>
+<p align="left">
+    <strong>Wordle 遊戲:</strong><br>
+    1. 滑鼠：點右上的圖示，分別是規則說明和退出（回到桌面）。<br>
+    2. 鍵盤：<br>
+    - 輸入英文字母<br>
+    - Backspace 刪除一個英文字母<br>
+    - Enter 換行（必須輸入滿一行字母才能換行）<br>
+</p>
+<p align="left">
+    <strong>Wordle 遊戲狀態:</strong><br>
+    1. 退出：滑鼠點右上角的退出圖示，不會保存記錄，重新進入遊戲會重新開始。<br>
+    2. 失敗：無法再輸入，但退出後再進入就會重新開始遊戲。<br>
+    3. 成功：無法再輸入，但退出後再進入就會重新開始遊戲（獲得的鑰匙不會消失）。<br>
+</p>
+
+<h3 align="left">遊戲設計基本部分:</h3>
+<p align="left">
+    <strong>數據類型:</strong><br>
+    1. int：幾乎所有數字都用int。<br>
+    2. char：Wordle遊戲中鍵盤輸入然後印到螢幕上的字母。<br>
+    3. double：第2、3關的時間用double表示，分.秒（小數點後第二位）。<br>
+    4. string：數字時間轉為字串，用SDL處理文字的函式印到螢幕上。<br>
+</p>
+<p align="left">
+    <strong>結構和枚舉:</strong><br>
+    1. structure：主地圖中有角色的座標和位移量、地圖的座標和位移量、老鼠的座標和位移量、HP的狀態等。<br>
+    2. enum：關卡判斷、鍵盤輸入方向、老鼠隨機跑的方向、血量增加或減少的判斷、Wordle的字母A~Z的判斷。<br>
+</p>
+
+<h3 align="left">遊戲操作:</h3>
+<p align="left">
+    <strong>遍歷:</strong><br>
+    遊戲裡面的背包。<br>
+    <strong>排序:</strong><br>
+    遊戲分三關，時間限制，黑白老鼠顏色數量。<br>
+    <strong>隨機:</strong><br>
+    老鼠生成的位置、老鼠移動的方向、碰到白老鼠抽獎、隨機提示紙條。<br>
+    <strong>檔案輸入輸出:</strong><br>
+    地圖部分是讀入文件檔到地圖陣列再輸出，遊戲視窗是用SDL的函式建立。<br>
+</p>
+
+<h3 align="left">程式碼結構:</h3>
+<p align="left">
+    <strong>initial:</strong><br>
+    初始化各種東西：SDL、窗口、renderer、座標、讀取不同的地圖、圖片。<br>
+    <strong>generate:</strong><br>
+    判斷當前狀態，把圖片印到螢幕上。呼叫順序：generate -> move -> collision -> move -> generate。<br>
+    <strong>move:</strong><br>
+    物件移動後座標、數值、其他事件狀態改變與否，根據collision的回傳值判斷。<br>
+    <strong>collision:</strong><br>
+    偵測物件之間碰撞的關係，判斷移動是否合理，回傳相關的值到move。<br>
+    <strong>game:</strong><br>
+    遊戲主體的運行，事件輸入和各項互動功能，印製圖片和動畫包裝的總體function。<br>
+    <strong>main:</strong><br>
+    遊戲流程，呼叫game裡面包裝好的function。<br>
+    <strong>basic:</strong><br>
+    定義部分物件固定的值、物件會用到的SDL指標、extern int、bool、enum、struct等。<br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

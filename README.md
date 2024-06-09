@@ -8,7 +8,7 @@
 <body>
 
 <h1 align="center">Hi 👋, 我們是 CCUnion</h1>
-<h3 align="center">一群正在嘗試做出小遊戲的人</h3>
+<h3 align="center">一群正在嘗試用SDL做出小遊戲的人</h3>
 
 <h3 align="left">故事劇情:</h3>
 <p align="left">

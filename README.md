@@ -65,14 +65,7 @@
     原始地圖以中正大學為原型。
 </p>
 
-<h3 align="left">遊戲設計:</h3>
-<p align="left">
-    三種基本資料型別 (例如 int 提示數量、float 倒數、char 字母)。<br>
-    動態：人物移動。<br>
-    隨機性主題方面的原創性 (中英) 和創意性 (故事劇情)。
-</p>
-
-<h3 align="left">遊戲中的操作和玩法介紹:</h3>
+<h3 align="left">遊戲中的操作和玩法介紹：</h3>
 <p align="left">
     <strong>操作:</strong><br>
     1. 關閉螢幕視窗：滑鼠點右上角的X。<br>

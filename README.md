@@ -10,6 +10,26 @@
 <h1 align="center">Hi 👋, 我們是 CCUnion</h1>
 <h3 align="center">一群正在嘗試用SDL做出小遊戲的人</h3>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Video</title>
+</head>
+<body>
+
+<h2>遊戲示例</h2>
+
+<video width="600" height="600" controls>
+  <source src="Preview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+</body>
+</html>
+
+
 <h3 align="left">故事劇情:</h3>
 <p align="left">
     <strong>故事背景：</strong><br>

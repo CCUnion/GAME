@@ -20,9 +20,9 @@
 <body>
 
 <h2>遊戲示例</h2>
-<p align="center">
+
 https://github.com/CCUnion/GAME/assets/145345763/c7d8419a-5c53-4bdc-930e-9f9b4405d6cc
-</p>
+
 
 <h3 align="left">故事劇情:</h3>
 <p align="left">
@@ -69,10 +69,8 @@ https://github.com/CCUnion/GAME/assets/145345763/c7d8419a-5c53-4bdc-930e-9f9b440
     -The Social Contract. Jean Jacques Rousseau (1762)
 </p>
 
-
-<p align="center">
     https://github.com/CCUnion/GAME/assets/145345763/68503a17-884e-440a-be41-6e42f9ebae75
-</p>
+
 
 
 <h3 align="left">遊戲類型:</h3>

@@ -73,7 +73,7 @@ https://github.com/CCUnion/GAME/assets/145345763/99bf99ce-253d-49df-9864-30a6156
 <p align="left">
     <strong>小遊戲</strong><br>
     三關推進式、密室逃脫類。<br>
-    遊戲開始介面 → 關卡1 → 關卡2 → 關卡3 → (真)結局
+    遊戲開始介面 → 關卡1 → 關卡2 → 關卡3 → 結局
 </p>
 <p align="left">
     原始地圖以中正大學為原型。
@@ -110,11 +110,11 @@ https://github.com/CCUnion/GAME/assets/145345763/99bf99ce-253d-49df-9864-30a6156
 <p align="left">
     <strong>關卡的限制</strong><br>
     <strong>時間限制：</strong><br>
-    第2、3關都有5分鐘的時間限制，時間到則遊戲失敗，重新開始。<br>
-    第3關失敗3次以上會獲得全部提示。<br>
+    第2、3關：都有5分鐘的時間限制，時間到則遊戲失敗，重新開始。<br>
+    第3關：失敗3次以上會獲得全部提示。<br>
     <strong>互動方塊：</strong><br>
-    第2關有回血方塊和扣血方塊，會影響老鼠生成。<br>
-    第3關只有扣血方塊，不會影響老鼠生成，電腦只有一台可以用，位置固定。<br>
+    第2關：有回血方塊和扣血方塊，會影響老鼠生成。<br>
+    第3關：只有扣血方塊，不會影響老鼠生成，電腦只有一台可以用，位置固定。<br>
     <strong>老鼠數量：</strong><br>
     第1關：白3黑2<br>
     第2關：一開始5黑，碰到回血方塊5黑，碰到扣血方塊白2黑3<br>
@@ -163,6 +163,172 @@ https://github.com/CCUnion/GAME/assets/145345763/99bf99ce-253d-49df-9864-30a6156
     遊戲流程，呼叫game裡面包裝好的function。<br>
     <strong>basic:</strong><br>
     定義部分物件固定的值、物件會用到的SDL指標、extern int、bool、enum、struct等。<br>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a> 
+</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CCUnion Game Introduction</title>
+</head>
+<body>
+
+<h1 align="center">Hi 👋, We are CCUnion</h1>
+<h3 align="center">A group of people trying to make small games using SDL</h3>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Video</title>
+</head>
+<body>
+
+<h2>Game Example</h2>
+
+https://github.com/CCUnion/GAME/assets/145345763/c7d8419a-5c53-4bdc-930e-9f9b4405d6cc
+
+<h3 align="left">Storyline:</h3>
+<p align="left">
+    <strong>Background:</strong><br>
+    The story is set in National Chung Cheng University. The protagonist is a student who is preparing for his final report late at night in the lab. In the silent lab, he receives a concerned call from his family, which he quickly responds to and hangs up. Soon after, he dozes off and wakes up to find the lab completely empty with all doors and windows locked. Realizing he is trapped in the school, he must find a way to escape.
+</p>
+
+<h3 align="left">Level Design:</h3>
+<p align="left">
+    <strong>Level 1:</strong> The protagonist searches for clues around the school and eventually finds a computer running a Wordle game. After solving the game, a drawer opens, revealing a key and a note. The word is "Bondage," meaning both physical and metaphorical restraints.
+</p>
+<p align="left">
+    <strong>Level 2:</strong> The protagonist unlocks a door and finds himself on a nonexistent sixth floor of the school. After exploring, he finds another computer with a Wordle game. Solving it gives him another key and note, with the word "Pain Addict," indicating a habit of seeking pain for the stimulation of the brain's reward system.
+</p>
+<p align="left">
+    <strong>Level 3:</strong> The protagonist enters the final area, a mind space with no clear boundaries. He finds the last computer, solves the Wordle game, and gets the final note with the word "IdealWorld," representing a perfect world. Upon obtaining this word, the protagonist wakes up in the classroom the next morning with everything seemingly normal, except the three notes are still in his hand.
+</p>
+
+<h3 align="left">Ending:</h3>
+<p align="left">
+    The protagonist successfully escapes the school but realizes that the outside world offers only superficial freedom. True liberation comes from self-awareness. He recognizes the importance of having an independent mind to remain clear-headed in society. He starts to value aspects of life beyond achievements. The journey to the ideal world involves addressing and confronting the "pain addiction" he encounters. This ending prompts deep reflection on the educational system and societal realities, suggesting that freedom comes from thought and "self."
+</p>
+
+<h3 align="left">Underlying Meaning:</h3>
+<p align="left">
+    Bondage represents the societal expectations that bind us, such as attending university, graduating on time, finding a good job, and getting married. Despite the pain felt in these rushed pursuits, many become addicted to them. Although physically free, are our minds also bound?
+</p>
+
+<h3 align="center">Final Reflection:</h3>
+<p align="center">
+    "Man is born free, and everywhere he is in chains. Those who think themselves the masters of others are indeed greater slaves than they." <br>
+    -The Social Contract, Jean Jacques Rousseau (1762)
+</p>
+
+https://github.com/CCUnion/GAME/assets/145345763/99bf99ce-253d-49df-9864-30a615678b4b
+
+<h3 align="left">Game Type:</h3>
+<p align="left">
+    <strong>Mini-game</strong><br>
+    Three-level progression, escape room style.<br>
+    Game start interface → Level 1 → Level 2 → Level 3 → (True) Ending
+</p>
+<p align="left">
+    The original map is based on National Chung Cheng University.
+</p>
+
+<h3 align="left">Gameplay and Controls:</h3>
+<p align="left">
+    <strong>Controls:</strong><br>
+    1. Close the screen window: Click the X in the top right corner.<br>
+    2. Open the backpack: Press E to open, press E again to close.<br>
+    3. Skip the computer loading animation: Press ESC.<br>
+</p>
+<p align="left">
+    <strong>Computer Desktop:</strong><br>
+    1. Close: Press ESC to return to the map.<br>
+    2. Interact: Click on icons with the mouse, click again to close images.<br>
+</p>
+<p align="left">
+    <strong>Wordle Game:</strong><br>
+    1. Mouse: Click the top right icons for rules and exit (return to desktop).<br>
+    2. Keyboard:<br>
+    - Enter letters<br>
+    - Backspace to delete a letter<br>
+    - Enter to submit a line (must fill a line before submitting)<br>
+</p>
+<p align="left">
+    <strong>Wordle Game Status:</strong><br>
+    1. Exit: Click the top right exit icon, progress is not saved, re-entering restarts the game.<br>
+    2. Fail: Unable to input more letters, but exiting and re-entering restarts the game.<br>
+    3. Success: Unable to input more letters, but exiting and re-entering restarts the game (keys obtained are retained).<br>
+</p>
+
+<h3 align="left">Level Difficulty Settings:</h3>
+<p align="left">
+    <strong>Level Restrictions</strong><br>
+    <strong>Time Limit:</strong><br>
+    Levels 2 and 3 have a 5-minute time limit. If time runs out, the game fails and restarts.<br>
+    Failing Level 3 more than three times provides all hints.<br>
+    <strong>Interactive Blocks:</strong><br>
+    Level 2 has health and damage blocks affecting mouse generation.<br>
+    Level 3 only has damage blocks, which do not affect mouse generation, and only one computer can be used with a fixed location.<br>
+    <strong>Mouse Quantity:</strong><br>
+    Level 1: 3 white, 2 black<br>
+    Level 2: Initially 5 black, health block adds 5 black, damage block adds 2 white and 3 black<br>
+    Level 3: 5 black, damage blocks do not refresh<br>
+</p>
+
+<h3 align="left">Basic Game Design:</h3>
+<p align="left">
+    <strong>Data Types:</strong><br>
+    1. int: Used for most numbers.<br>
+    2. char: Letters input and displayed on screen in Wordle game.<br>
+    3. double: Used for time in Levels 2 and 3, represented as minutes and seconds (to two decimal places).<br>
+    4. string: Time converted to string and displayed on screen using SDL functions.<br>
+</p>
+<p align="left">
+    <strong>Structures and Enums:</strong><br>
+    1. Structure: Coordinates and displacement of the character, map, mice, and HP status in the main map.<br>
+    2. Enum: Level judgment, keyboard input directions, random directions for mice, health increase or decrease, Wordle letters A-Z judgment.<br>
+</p>
+
+<h3 align="left">Game Mechanisms:</h3>
+<p align="left">
+    <strong>Traversal:</strong><br>
+    Backpack in the game.<br>
+    <strong>Sorting:</strong><br>
+    Three levels, time limits, black and white mouse counts.<br>
+    <strong>Random:</strong><br>
+    Mouse generation locations, mouse movement directions, white mouse lottery, random hint notes.<br>
+    <strong>File I/O:</strong><br>
+    Map parts are read from files into map arrays and then output, game windows are created using SDL functions.<br>
+</p>
+
+<h3 align="left">Code Structure:</h3>
+<p align="left">
+    <strong>initial:</strong><br>
+    Initialize various elements: SDL, window, renderer, coordinates, load different maps, images.<br>
+    <strong>generate:</strong><br>
+    Determine the current state and print images to the screen. Call order: generate -> move -> collision -> move -> generate.<br>
+    <strong>move:</strong><br>
+    Change coordinates, values, and other event statuses of objects after movement, based on collision return values.<br>
+    <strong>collision:</strong><br>
+    Detect collision relationships between objects, determine if movements are reasonable, and return related values to move.<br>
+    <strong>game:</strong><br>
+    Main game operation, event input and various interaction functions, overall function for printing images and animations.<br>
+    <strong>main:</strong><br>
+    Game flow, calls functions packaged in game.<br>
+    <strong>basic:</strong><br>
+    Defines fixed values for some objects, SDL pointers used by objects, extern int, bool, enum, struct, etc.<br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

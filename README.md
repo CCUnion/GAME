@@ -121,7 +121,7 @@
     2. enum：關卡判斷、鍵盤輸入方向、老鼠隨機跑的方向、血量增加或減少的判斷、Wordle的字母A~Z的判斷。<br>
 </p>
 
-<h3 align="left">操作性質:</h3>
+<h3 align="left">遊戲機制:</h3>
 <p align="left">
     <strong>遍歷:</strong><br>
     遊戲裡面的背包。<br>

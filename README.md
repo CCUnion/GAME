@@ -307,7 +307,7 @@ https://github.com/CCUnion/GAME/assets/145345763/99bf99ce-253d-49df-9864-30a6156
     Backpack in the game.<br>
     <strong>Sorting:</strong><br>
     Three levels, time limits, black and white mouse counts.<br>
-    <strong>Random:</strong><br>
+    <strong>Randomization:</strong><br>
     Mouse generation locations, mouse movement directions, white mouse lottery, random hint notes.<br>
     <strong>File I/O:</strong><br>
     Map parts are read from files into map arrays and then output, game windows are created using SDL functions.<br>

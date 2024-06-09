@@ -202,7 +202,7 @@ https://github.com/CCUnion/GAME/assets/145345763/c7d8419a-5c53-4bdc-930e-9f9b440
 
 <h3 align="left">Storyline:</h3>
 <p align="left">
-    <strong>Background:</strong><br>
+    <strong>Prologue:</strong><br>
     The story is set in National Chung Cheng University. The protagonist is a student who is preparing for his final report late at night in the lab. In the silent lab, he receives a concerned call from his family, which he quickly responds to and hangs up. Soon after, he dozes off and wakes up to find the lab completely empty with all doors and windows locked. Realizing he is trapped in the school, he must find a way to escape.
 </p>
 
@@ -227,7 +227,7 @@ https://github.com/CCUnion/GAME/assets/145345763/c7d8419a-5c53-4bdc-930e-9f9b440
     Bondage represents the societal expectations that bind us, such as attending university, graduating on time, finding a good job, and getting married. Despite the pain felt in these rushed pursuits, many become addicted to them. Although physically free, are our minds also bound?
 </p>
 
-<h3 align="center">Final Reflection:</h3>
+<h3 align="center">Epilogue:</h3>
 <p align="center">
     "Man is born free, and everywhere he is in chains. Those who think themselves the masters of others are indeed greater slaves than they." <br>
     -The Social Contract, Jean Jacques Rousseau (1762)
@@ -276,11 +276,11 @@ https://github.com/CCUnion/GAME/assets/145345763/99bf99ce-253d-49df-9864-30a6156
 <p align="left">
     <strong>Level Restrictions</strong><br>
     <strong>Time Limit:</strong><br>
-    Levels 2 and 3 have a 5-minute time limit. If time runs out, the game fails and restarts.<br>
+    Levels 2 and 3: have a 5-minute time limit. If time runs out, the game fails and restarts.<br>
     Failing Level 3 more than three times provides all hints.<br>
     <strong>Interactive Blocks:</strong><br>
-    Level 2 has health and damage blocks affecting mouse generation.<br>
-    Level 3 only has damage blocks, which do not affect mouse generation, and only one computer can be used with a fixed location.<br>
+    Level 2: has health and damage blocks affecting mouse generation.<br>
+    Level 3: only has damage blocks, which do not affect mouse generation, and only one computer can be used with a fixed location.<br>
     <strong>Mouse Quantity:</strong><br>
     Level 1: 3 white, 2 black<br>
     Level 2: Initially 5 black, health block adds 5 black, damage block adds 2 white and 3 black<br>

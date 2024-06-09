@@ -68,6 +68,12 @@ https://github.com/CCUnion/GAME/assets/145345763/c7d8419a-5c53-4bdc-930e-9f9b440
     -The Social Contract. Jean Jacques Rousseau (1762)
 </p>
 
+
+
+https://github.com/CCUnion/GAME/assets/145345763/68503a17-884e-440a-be41-6e42f9ebae75
+
+
+
 <h3 align="left">遊戲類型:</h3>
 <p align="left">
     <strong>小遊戲</strong><br>

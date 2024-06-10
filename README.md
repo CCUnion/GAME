@@ -47,17 +47,17 @@ https://github.com/CCUnion/GAME/assets/145345763/c7d8419a-5c53-4bdc-930e-9f9b440
 
 <h3 align="left">結局：</h3>
 <p align="left">
-    最後，主角成功逃出了學校，但卻發現外面的世界「自由」也只是一種表面的解脫，而「自我意識」才是真正的解放之道。主角意識到自己需要擁有自主的思維，才能在社會中保持清醒。<br>
-    主角發覺，除了外在的成就之外，人生也有其他值得留步之處。<br>
-    在探索理想的過程，遇到的「痛癮」也是必須解決和面對的課題。<br>
+    最後，主角成功逃出了學校，但卻發現外面的世界「自由」也只是一種表面的解脫，而「自我意識」才是真正的解放之道。主角意識到自己需要擁有自主的思維，在社會中保持清醒，才是真正的自由。<br>
+    主角發覺，除了外在的成就之外，人生有更多值得珍視的價值。<br>
+    在探索理想的過程，遇到的「痛癮」也是必須解決和面對的課題，我們是否能鼓起勇氣面對追求功成名就這似毒的癮？<br>
     這樣的結局帶給玩家深刻反思，引發對教育體制和社會現實的思考。畢業、找到好工作、結婚、生子，從來都不是自由的開始。
-    <p align="center">
+    <h4 align="left">
     自由來自思維，來自「自我」
 </p>
 
 <h3 align="left">背後寓意：</h3>
 <p align="left">
-    綑縛，代表我們都被這個社會中的那些「應該」所綑縛著，應該要念大學、應該準時畢業、應該要找好工作、應該結婚等等。<br>
+    綑縛，代表我們都被這個社會中的那些「應該」所綑縛著，「應該」要念大學、「應該」準時畢業、「應該」要找好工作、「應該」結婚等等。<br>
     我們明明在這些倉促的催趕中感到疼痛，多數人卻以此為癮，投身其中。<br>
     這樣的我們儘管身體自由，並未被禁錮，但真的是自由的嗎？我們的思維是不是也是被束縛著的呢？
 </p>
@@ -224,7 +224,13 @@ https://github.com/CCUnion/GAME/assets/145345763/c7d8419a-5c53-4bdc-930e-9f9b440
 
 <h3 align="left">Ending:</h3>
 <p align="left">
-    The protagonist successfully escapes the school but realizes that the outside world offers only superficial freedom. True liberation comes from self-awareness. He recognizes the importance of having an independent mind to remain clear-headed in society. He starts to value aspects of life beyond achievements. The journey to the ideal world involves addressing and confronting the "pain addiction" he encounters. This ending prompts deep reflection on the educational system and societal realities, suggesting that freedom comes from thought and "self."
+<p align="left">
+    In the end, the protagonist successfully escapes from the school, only to discover that the "freedom" outside is merely a superficial relief. True liberation comes from "self-awareness." The protagonist realizes that having an independent mind and staying clear-headed in society is the real freedom.<br>
+    The protagonist understands that beyond external achievements, there are many more values in life worth cherishing.<br>
+    In the process of pursuing ideals, the "painful addiction" encountered must also be addressed and faced. Can we muster the courage to confront this addiction to the pursuit of success and fame, which is like a poison?<br>    
+    This ending leaves the player with profound reflections, prompting thoughts about the education system and social realities. Graduation, finding a good job, getting married, and having children have never been the start of true freedom.
+    <h4 align="left">
+    Freedom comes from the mind, from the "self."
 </p>
 
 <h3 align="left">Underlying Meaning:</h3>

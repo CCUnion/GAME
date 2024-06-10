@@ -32,7 +32,8 @@ https://github.com/CCUnion/GAME/assets/145345763/c7d8419a-5c53-4bdc-930e-9f9b440
 
 <h3 align="left">關卡設計：</h3>
 <p align="left">
-    <strong>第一關：</strong>主角在學校中四處尋找線索，最後發現一台電腦上開著Wordle遊戲，解開遊戲後，某個抽屜打開了，裡面有一把鑰匙及一張字條。這個單詞是「綑縛Bondage」，意思是：有形或無形的束縛、捆綁。
+    <strong>第一關：</strong>主角在學校中四處尋找線索，最後發現一台電腦上開著Wordle遊戲，解開遊戲後，某個抽屜打開了，裡面有一把鑰匙及一張字條。這個單詞是「綑縛Bondage」<br>
+    「綑縛Bondage」：有形或無形的束縛、捆綁。
 </p>
 <p align="left">
     <strong>第二關：</strong>主角開了門發現自己在學校不存在的第六樓，繞了一圈只有一個打不開的門。在這個區域中，主角最終找到另一台電腦上的Wordle遊戲，解開後得到另一把鑰匙及字條，這次的單詞是「痛癮Pain Addict」：疼痛的習慣透過刺激中樞神經的獎賞系統(reward system)造成興奮或愉快感 而形成「癮」。
